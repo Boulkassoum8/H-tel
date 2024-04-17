@@ -1,0 +1,11 @@
+
+<section id="reserver">
+    <h2 id="contact"> contactez-nous</h2>
+            <form>
+                <input placeholder="Nom">
+                <input placeholder="E-mail">
+                <textarea placeholder="votre message 
+                ici..."></textarea>
+                <button>Envoyer</button>
+            </form>
+</section>
